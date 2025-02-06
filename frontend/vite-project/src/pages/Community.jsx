@@ -10,7 +10,7 @@ const Community = () => {
   useEffect(() => {
     const fetchDonors = async () => {
       try {
-        const response = await axios.get("http://localhost:8000/community");
+        const response = await axios.get("https://pradaanportal.onrender.com/community");
         setDonors(response.data);
       } catch (error) {
         console.error("Error fetching donors:", error);

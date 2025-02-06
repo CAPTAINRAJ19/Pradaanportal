@@ -12,7 +12,7 @@ function Pay() {
 
     localStorage.setItem("donationAmount", amount); 
 
-    let response = await axios.post("http://localhost:8000/payment", { amount });
+    let response = await axios.post("https://pradaanportal.onrender.com/payment", { amount });
     console.log("Stripe Session URL:", response.data.url); 
 
     if (response && response.status === 200) {

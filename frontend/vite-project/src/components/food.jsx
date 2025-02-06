@@ -38,7 +38,7 @@ const FoodDonation = ({ onClose }) => {
     };
 
     try {
-      const response = await fetch("http://localhost:8000/contribute", {
+      const response = await fetch("https://pradaanportal.onrender.com/contribute", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(donationData),
