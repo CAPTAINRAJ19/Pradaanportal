@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Home from './pages/Home'
-import Community from './pages/community';
+import Community from './pages/Community';
 import Contribute from './pages/Contribute';
 import Pay from "./pages/Pay";
 import Success from "./pages/Success";
