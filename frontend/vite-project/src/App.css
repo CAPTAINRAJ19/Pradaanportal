@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&family=Anton&family=Bebas+Neue&family=Corben:wght@400;700&family=Ephesis&family=Gruppo&family=Syncopate:wght@400;700&display=swap');
+.bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .anton-regular {
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .syncopate-regular {
+    font-family: "Syncopate", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .syncopate-bold {
+    font-family: "Syncopate", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .gruppo-regular {
+    font-family: "Gruppo", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .ephesis-regular {
+    font-family: "Ephesis", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .corben-regular {
+    font-family: "Corben", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .corben-bold {
+    font-family: "Corben", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .amita-regular {
+    font-family: "Amita", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .amita-bold {
+    font-family: "Amita", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+            
