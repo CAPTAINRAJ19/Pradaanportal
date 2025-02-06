@@ -1,7 +1,7 @@
 import { useState ,useEffect } from "react";
 import { FaHandHoldingHeart, FaBook, FaUtensils, FaTshirt, FaTint, FaLungs } from "react-icons/fa";
 import Footer from "../components/footer";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import { useNavigate } from 'react-router-dom'
 import Book from "../components/book";
 import BloodDonation from "../components/blood";
