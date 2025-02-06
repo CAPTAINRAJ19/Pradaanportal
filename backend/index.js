@@ -68,8 +68,8 @@ app.post("/payment", async (req, res) => {
         },
       ],
       mode: "payment",
-      success_url: "http://localhost:5173/success",
-      cancel_url: "http://localhost:5173/",
+      success_url: "https://pradaanportal.vercel.app/success",
+      cancel_url: "https://pradaanportal.vercel.app/",
       customer_email: "pradaanportal@gmail.com",
     });
 
